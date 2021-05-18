@@ -1,0 +1,27 @@
+.footerTop {
+    background-color:  #08373f;
+}
+
+.footerTop hr {
+    color: #000000;
+}
+
+.footerTop:hover {
+    background-color: #0f525e;
+}
+
+.footer__Heading {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+
+.footer__Heading a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer__Heading a:hover {
+    color: white;
+    text-decoration: underline;
+}
